@@ -21,3 +21,4 @@ using event.target, closest(), and matches().
 All exercises tested with zero console errors.
 
 ## Youtube Link:
+https://youtu.be/6LRai0--Fko
